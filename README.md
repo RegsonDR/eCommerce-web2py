@@ -11,4 +11,4 @@ This is a demo ecommerce website created using [Web2py](http://www.web2py.com/),
 - Other features include Image carousels, similar products section, best sellers section, 404 pages & star-rating displays.
 
 ### Installation & Set Up 
-The application needs to be stored in it's own directory in web2py's application directory. Once doing so, models//db.py (lines 99:103) must be modified with valid email credentials, in order to allow the application to send emails, this is required or users won't be able to verify!
+The application needs to be stored in a unique directory in web2py's application directory. Once doing so, models/db.py (lines 99:103) must be modified with valid email credentials, to allow the application to send emails, this is required, or users won't be able to verify!
